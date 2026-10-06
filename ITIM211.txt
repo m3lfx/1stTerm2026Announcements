@@ -1,5 +1,6 @@
 Information Management
 
+All Sections
 Quiz 1 OCT 7 1.00pm Basic PHP to Arrays
 Quiz 2 OCT 14 1.00pm Forms, Files, Dates, Strings, Regex, Arrays, 
 Quiz 3 OCT 21 1.00pm All topics
