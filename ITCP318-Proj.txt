@@ -1,0 +1,46 @@
+ITCP318 Integrative Programming and Technology  1st Term 2026
+
+MP1 20pts
+Product/Service CRUD datatables. upload multiple photos. bulk delete using checkboxes 20pts
+
+mp2 filter functions 20pts
+price filter 5pts
+category filter 5pts 
+ratings filter 5pts
+review filter 5pts
+
+mp3 review ratings 20pts 
+users who availed of the product/service can write a review and rate the product|service 10pts
+users can update their own review/rating. 5pts
+admin can delete a review 5pts.
+
+term test lab 30pts
+completed transaction. 10pts
+admin updates the status of the transaction. 5pts 
+email the customer of the updated transaction details. the email contains the list of products/services, their subtotal and grand total. 5pts
+attach a pdf receipt on the email 10pts
+
+unit 1 20pts 
+filter/mask bad words from reviews. bad-words package 10pts
+form validation on product and user forms. (product crud, user login, update profile) YUP formik React Hook Form 10pts
+
+unit 2 20pts
+user interface design css 10pts
+user interface design css and bootstrap components 15pts
+user interface design css and Material UI (MUI) or similar library components 20pts
+
+quiz 2 15pts
+sales charts with date range filter.  line or bar chart 15pts
+
+quiz 3
+pagination on products list on homepage. 10pts
+infinite scroll on products list on homepage. 15pts
+
+quiz 4 
+facebook or gmail login 15pts react-facebook-login or similar packages.
+facebook or gmail login using firebase|supabase|clerk 15pts
+
+term test LEC
+functional requirements completeness 10pts
+program execution (errors).  10pts
+project contribution 10pts
