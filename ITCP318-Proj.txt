@@ -42,6 +42,7 @@ facebook or gmail login using firebase|supabase|clerk 15pts
 
 quiz 4 15 pts 
 use Redux for state management
+
 term test LEC 30pts
 functional requirements completeness 10pts
 program execution (errors).  10pts

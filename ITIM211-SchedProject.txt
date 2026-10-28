@@ -1,0 +1,44 @@
+Project Presentation Schedule Nov. 3 - 6, 7.30am onwards
+if you have term exams on that date and time, take them first and will continue after. groups who were not checked on nov. 3 tuesday will have to copy their project (php files and MySQL database) to lab computers.
+
+Term Test will be on Thursday Nov. 5 8.00am
+
+1. calaramo/corregidor
+2. daguimol/isidro
+3. sarmiento/ibardolaza
+4. aurella/peque
+5. salinas/tordecilla
+6. luzada/macapagal
+7. ga-an/reyes
+8. casanoba/raymundo
+9. oanes/tafalla
+10. geronimo/socito
+11. trinidad/urma
+12. bala/balleber III
+13. capanay/labastida
+14. caro/mijares
+15. leonardo/sanchez
+16. lawsin/llabres
+17. alunday/felipe
+18. ingco/marquez
+19. raymundo/tuy
+20. oarde/rebanal
+21. taneo/sabalza
+22. beitia/laygan/patatag
+23. girao/huertas
+24. manrique/marquez
+25. torrevillas/villanueva
+26. recayo/tabangay
+27. dumagcao/maestro
+28. orbigo/arboleda
+29. esta/triste
+30. binas/lumogdang
+31. san esteban/pablo
+32. agustin/sabulao
+33. costelo/macaraeg
+34. jose/zamora
+35. calzado/macalaba
+36. dalit/relente
+37. llegado/nunez
+38. candiasan/eguin
+
